@@ -31,11 +31,11 @@ Yuu's age is shown on a medical report that Tomori holds up at ``11:01``. Tomori
 
 .. [1] Evidenced by the weather - sunny, cicada sounds, ect.
 
-.. [2] Evidenced by the trees now having yellow leaves, and leaves being on the ground. (``01:22``)
+.. [2] Evidenced by the trees now having yellow leaves, and leaves being on the ground. (``01:22``).
 
-.. [3] Evidenced by students now wearing coats, gloves and scarves at ``02:45``, as Yuu takes the enterance exams. Addationally, in Japan, entrance exams are usually in mid-January/Feburuary so this now needs to be the new year (2015).
+.. [3] Evidenced by students now wearing coats, gloves and scarves at ``02:45``, as Yuu takes the enterance exams. Addationally, in Japan, entrance exams are usually in mid-January/Feburuary [#jpexams]_ so this now needs to be the new year (2015) .
 
-.. [4] In Japan, the school year starts in April.
+.. [4] In Japan, the school year starts in April. [#jpexams]_
 
 .. [5] Assuming that the school would have it's enterance ceremony on Monday.
 
@@ -56,7 +56,9 @@ Episode 2
 Date
 -------
 
-From episode 1, we can still conclude that it is April 2015. Tomori's flashback (`14:58`) takes place in 2012. A year passes [13_] and now assumed around or April 2013. Tomori meeting Shunsuke likely happened sometime near this date.
+From episode 1, we can still conclude that it is April 2015.
+
+Tomori's flashback (`14:58`) takes place in 2012. A year passes [13]_ and now assumed around or April 2013. Tomori meeting Shunsuke likely happened sometime near this date.
 
 Supporting evidence
 ---------------------
@@ -68,6 +70,8 @@ In Tomori's flashback, she mentions she had just passed the middle school [11]_ 
 At ``16:01`` there is calendar behind Tomori and her brother. This seems to have 29 numbers on it. Going back on real world calendars, Feburuary 2012 is a leap year and has 29 days. This puts Tomori's estimated age at this moment as 12.
 
 There isn't any evidence to say when Tomori escaped from the school, only that at least 1 year had passed since she started there.
+
+Calander again says may. (``21:34``)
 
 .. [11] In Japan, middle school [#jpschoolyrs]_ is between ages of 12 to 15.
 
@@ -90,7 +94,7 @@ This section is for references tied to real world events, such as exam dates, un
 
 .. [#jpschoolyrs] Taken from https://web-japan.org/kidsweb/explore/basic/schools.html, https://www.criced.tsukuba.ac.jp/keiei/kyozai_ppe_f1_02.html and https://gogonihon.com/en/blog/learn-about-the-japanese-education-system/
 
-.. [#jpexams] The exact dates exams are held vary from school to school, but typically in the winter months. Some references for this include https://en.wikipedia.org/wiki/National_Center_Test_for_University_Admissions, http://www.asia-u.ac.jp/admissions/schedule/, Translated: https://www-asia--u-ac-jp.translate.goog/admissions/schedule/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl
+.. [#jpexams] The exact dates exams are held vary from school to school, but typically early in the year (January/Feburuary). Some references for this include https://en.wikipedia.org/wiki/National_Center_Test_for_University_Admissions, http://www.asia-u.ac.jp/admissions/schedule/, Translated: https://www-asia--u-ac-jp.translate.goog/admissions/schedule/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl
 
 
 
