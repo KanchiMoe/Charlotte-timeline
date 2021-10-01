@@ -56,33 +56,36 @@ Episode 2
 Date
 -------
 
-From episode 1, we can still conclude that it is April 2015. Tomori's flashback (`14:58`) takes place in 2012.
+From episode 1, we can still conclude that it is April 2015. Tomori's flashback (`14:58`) takes place in 2012. A year passes [13_] and now assumed around or April 2013. Tomori meeting Shunsuke likely happened sometime near this date.
 
 Supporting evidence
 ---------------------
 
 A calendar is visible at ``00:08``. While the legibility is poor, 
 
-In Tomori's flashback, she mentions she had just passed the middle school [11]_ enterance exams [12]_. 
+In Tomori's flashback, she mentions she had just passed the middle school [11]_ enterance exams [12]_.  
 
+At ``16:01`` there is calendar behind Tomori and her brother. This seems to have 29 numbers on it. Going back on real world calendars, Feburuary 2012 is a leap year and has 29 days. This puts Tomori's estimated age at this moment as 12.
 
- at ``16:01`` there is calendar behind Tomori and her brother. This seems to have 29 numbers on it. Going back on real world calendars, Feburuary 2012 is a leap year and has 29 days. This puts Tomori's estimated age at this moment as 12.
+There isn't any evidence to say when Tomori escaped from the school, only that at least 1 year had passed since she started there.
 
- .. [11] In Japan, middle school [#jpschoolyrs]_ is between ages of 12 to 15.
+.. [11] In Japan, middle school [#jpschoolyrs]_ is between ages of 12 to 15.
 
- .. [12] Meaning she would have had to have taken these in January or Feburuary of that year. [#jpexams]_
+.. [12] Meaning she would have had to have taken these in January or Feburuary of that year. [#jpexams]_ and started the school in April 2012.
 
-
-
-
-
-
+.. [13] In the dub, at ``17:40`` she says "A year later".
 
 
 
 
 
- ===
+
+
+
+Real world references
+=====================
+
+This section is for references tied to real world events, such as exam dates, uniform switches, etc.
 
 
 .. [#jpschoolyrs] Taken from https://web-japan.org/kidsweb/explore/basic/schools.html, https://www.criced.tsukuba.ac.jp/keiei/kyozai_ppe_f1_02.html and https://gogonihon.com/en/blog/learn-about-the-japanese-education-system/
