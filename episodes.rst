@@ -58,7 +58,7 @@ Date
 
 From episode 1, we can still conclude that it is April 2015.
 
-Tomori's flashback (`14:58`) takes place in 2012. A year passes [13]_ and now assumed around or April 2013. Tomori meeting Shunsuke likely happened sometime near this date.
+Tomori's flashback (``14:58``) takes place in 2012. A year passes [13]_ and now assumed around or April 2013. Tomori meeting Shunsuke likely happened sometime near this date.
 
 Supporting evidence
 ---------------------
@@ -94,8 +94,6 @@ This section is for references tied to real world events, such as exam dates, un
 
 .. [#jpschoolyrs] Taken from https://web-japan.org/kidsweb/explore/basic/schools.html, https://www.criced.tsukuba.ac.jp/keiei/kyozai_ppe_f1_02.html and https://gogonihon.com/en/blog/learn-about-the-japanese-education-system/
 
-.. [#jpexams] The exact dates exams are held vary from school to school, but typically early in the year (January/Feburuary). Some references for this include https://en.wikipedia.org/wiki/National_Center_Test_for_University_Admissions, http://www.asia-u.ac.jp/admissions/schedule/, Translated: https://www-asia--u-ac-jp.translate.goog/admissions/schedule/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl
-
-
+.. [#jpexams] The exact dates exams are held vary from school to school, but typically early in the year (January/Feburuary). Some references for this include `Wikipedia <https://en.wikipedia.org/wiki/National_Center_Test_for_University_Admissions>`, `asia-u.ac.jp <http://www.asia-u.ac.jp/admissions/schedule/>` (`Translated <https://www-asia--u-ac-jp.translate.goog/admissions/schedule/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl>`).
 
  
