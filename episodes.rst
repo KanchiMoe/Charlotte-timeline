@@ -79,10 +79,33 @@ Calander again says may. (``21:34``)
 
 .. [13] In the dub, at ``17:40`` she says "A year later".
 
+Episode 3
+============
 
+Date
+-------
 
+Estimated to be May 2015. Specific date is unknown. It does appear that the entire episode takes place within one day.
 
+Supporting evidence
+---------------------
 
+A calendar on the wall at ``21:30`` shows "5" to indicate May.
+
+Episode 4
+============
+
+Date
+-------
+
+Still May 2015, with a specific date is unknown. Tomori arranges for the baseball game to be "next Sunday" [14]_.
+
+Supporting evidence
+---------------------
+
+A calendar on the wall at ``00:30`` shows "5" to indicate May.
+
+.. [14] The wording here is ambiguous. As everyone is in school uniforms, it implies not the upcoming Sunday, but the following Sunday. If the calendar is correct, this could mean the 13th, 20th or 27th of May 2015 by assuming the upcoming Sunday is the 6th, at a minimum.
 
 
 
