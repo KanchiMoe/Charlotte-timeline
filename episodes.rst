@@ -33,7 +33,7 @@ Yuu's age is shown on a medical report that Tomori holds up at ``11:01``. Tomori
 
 .. [2] Evidenced by the trees now having yellow leaves, and leaves being on the ground. (``01:22``)
 
-.. [3] Evidenced by students now wearing coats, gloves and scarves at ``02:45``, as Yuu takes the enterance exams. Addationally, in Japan, entrance exams are usually in mid-January so this now needs to be the new year (2015).
+.. [3] Evidenced by students now wearing coats, gloves and scarves at ``02:45``, as Yuu takes the enterance exams. Addationally, in Japan, entrance exams are usually in mid-January/Feburuary so this now needs to be the new year (2015).
 
 .. [4] In Japan, the school year starts in April.
 
@@ -47,7 +47,7 @@ Yuu's age is shown on a medical report that Tomori holds up at ``11:01``. Tomori
 
 .. [9] It's not possible to determine when exactly the move into the dorms happened. We could assume it happened the next day (seeing as Hoshinoumi Academy moves quickly (and would have allowed them to not be present at school during the move in)) or at the weekend of that week.
 
-.. [10] Tomori's age is estimated to be 15 based on she is a first year in high school. In Japan, most people start high school when 15.
+.. [10] Tomori's age is estimated to be 15 based on she is a first year in high school. In Japan, most people start high school when 15. [#jpschoolyrs]_
 
 
 Episode 2
@@ -56,9 +56,39 @@ Episode 2
 Date
 -------
 
-From episode 1, we can still conclude that it is April 2015.
+From episode 1, we can still conclude that it is April 2015. Tomori's flashback (`14:58`) takes place in 2012.
 
 Supporting evidence
 ---------------------
 
-A calendar is visible at ``00:08``
+A calendar is visible at ``00:08``. While the legibility is poor, 
+
+In Tomori's flashback, she mentions she had just passed the middle school [11]_ enterance exams [12]_. 
+
+
+ at ``16:01`` there is calendar behind Tomori and her brother. This seems to have 29 numbers on it. Going back on real world calendars, Feburuary 2012 is a leap year and has 29 days. This puts Tomori's estimated age at this moment as 12.
+
+ .. [11] In Japan, middle school [#jpschoolyrs]_ is between ages of 12 to 15.
+
+ .. [12] Meaning she would have had to have taken these in January or Feburuary of that year. [#jpexams]_
+
+
+
+
+
+
+
+
+
+
+
+ ===
+
+
+.. [#jpschoolyrs] Taken from https://web-japan.org/kidsweb/explore/basic/schools.html, https://www.criced.tsukuba.ac.jp/keiei/kyozai_ppe_f1_02.html and https://gogonihon.com/en/blog/learn-about-the-japanese-education-system/
+
+.. [#jpexams] The exact dates exams are held vary from school to school, but typically in the winter months. Some references for this include https://en.wikipedia.org/wiki/National_Center_Test_for_University_Admissions, http://www.asia-u.ac.jp/admissions/schedule/, Translated: https://www-asia--u-ac-jp.translate.goog/admissions/schedule/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl
+
+
+
+ 
