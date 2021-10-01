@@ -11,14 +11,14 @@ Date
 
 If we assume the show is set in 2015, the first 3 minutes of episode 1 need to take place in 2014. Everything else after this takes place from April 2015 onwards. If we look at the calendar for April 2015, we could estimate that between ``02:55`` and ``08:28`` has been the 6th of April [5]_, ``08:29`` to ``18:26`` on 7th April. [6]_ And at an estimate, the episode ends.
 
-By the end of the episode, we can estimate that is 6th April, 2015.
+We can estimate that the episode end on Wednesday 8th April or Sunday 12th April. [9]_
 
 Supporting evidence
 ---------------------
 
 The show opens to show Yuu standing in the street, he looks up and sees a comet passing over. There is no way to determine a date here, but this is not the Charlotte comet itself as detailed in a later episode.
 
-The next shot (``0:55``) shows summer [1]_, autum [2]_ and winter [3]_, then Yuu attending the enterance ceremony[4]_. He and Ayumi are transfered to Hoshinoumi Academy. Yuu and Ayumi then move into the dorms[7]_. 
+The next shot (``0:55``) shows summer [1]_, autum [2]_ and winter [3]_, then Yuu attending the enterance ceremony [4]_. He and Ayumi are transfered to Hoshinoumi Academy. Yuu and Ayumi then move into the dorms [7]_ [8]_. 
 
 
 .. [1] Evidenced by the weather - sunny, cicada sounds, ect.
@@ -31,8 +31,10 @@ The next shot (``0:55``) shows summer [1]_, autum [2]_ and winter [3]_, then Yuu
 
 .. [5] Assuming that the school would have it's enterance ceremony on Monday.
 
-.. [6] As an inconsistancy, there is a calendar on the wall at ``22:54`` which has the number "5" shown, to indicate May, but I'm ignoring this per X
+.. [6] As an inconsistancy, there is a calendar on the wall at ``22:54`` which has the number "5" shown, to indicate May, but I'm ignoring this per #7 below.
 
 .. [7] There is a calendar at ``23:17``, above Ayumi's head which shows April. The writing is a bit faint, but visible.
 
-.. [8] It's not possible to determine when exactly the move into the dorms happened. We could assume it happened the next day (Wednesday, 8th April) or at the weekend (10 (Friday)-12 (Sunday))
+.. [8] It appears they spend the entire day moving in, starting in the morning (``18:26``). Tomori and Joujirou are leaving  but Ayumi says she is about to make dinner, implying the evening. [9]_
+
+.. [9] It's not possible to determine when exactly the move into the dorms happened. We could assume it happened the next day (seeing as Hoshinoumi Academy moves quickly (and would have allowed them to not be present at school during the move in)) or at the weekend of that week.
