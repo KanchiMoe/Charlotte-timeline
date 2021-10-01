@@ -92,8 +92,8 @@ Real world references
 This section is for references tied to real world events, such as exam dates, uniform switches, etc.
 
 
-.. [#jpschoolyrs] Taken from https://web-japan.org/kidsweb/explore/basic/schools.html, https://www.criced.tsukuba.ac.jp/keiei/kyozai_ppe_f1_02.html and https://gogonihon.com/en/blog/learn-about-the-japanese-education-system/
+.. [#jpschoolyrs] Taken from `web-japan.org <https://web-japan.org/kidsweb/explore/basic/schools.html>`_, `criced.tsukuba.ac.jp <https://www.criced.tsukuba.ac.jp/keiei/kyozai_ppe_f1_02.html>`_ and `gogonihon.com <https://gogonihon.com/en/blog/learn-about-the-japanese-education-system/>`_.
 
-.. [#jpexams] The exact dates exams are held vary from school to school, but typically early in the year (January/Feburuary). Some references for this include `Wikipedia <https://en.wikipedia.org/wiki/National_Center_Test_for_University_Admissions>`, `asia-u.ac.jp <http://www.asia-u.ac.jp/admissions/schedule/>` (`Translated <https://www-asia--u-ac-jp.translate.goog/admissions/schedule/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl>`).
+.. [#jpexams] The exact dates exams are held vary from school to school, but typically early in the year (January/Feburuary). Some references for this include `Wikipedia <https://en.wikipedia.org/wiki/National_Center_Test_for_University_Admissions>`_, `asia-u.ac.jp <http://www.asia-u.ac.jp/admissions/schedule/>`_ (`Translated <https://www-asia--u-ac-jp.translate.goog/admissions/schedule/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl>`_).
 
  
