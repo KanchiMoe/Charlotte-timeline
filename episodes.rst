@@ -107,6 +107,46 @@ A calendar on the wall at ``00:30`` shows "5" to indicate May.
 
 .. [14] The wording here is ambiguous. As everyone is in school uniforms, it implies not the upcoming Sunday, but the following Sunday. If the calendar is correct, this could mean the 13th, 20th or 27th of May 2015 by assuming the upcoming Sunday is the 6th, at a minimum.
 
+Episode 5
+============
+
+Date
+-------
+
+The episode starts on Thursday 28th May and runs up until ``05:19``. Friday until ``11:37``, Saturday until ``15:22`` and Sunday (31st May) until the end of the episode.
+
+
+Supporting evidence
+---------------------
+
+The evidence for the end date comes from that episode 6 has a uniform change, which takes place on a set date each year [#jpuniform]_. If we track the passage of time using the day-night cycle, we can see that 3 days have passed.
+
+At ``14:42`` on what would be Saturday, Yuu says "tomorrow is Monday, right?" this is taken to be after midnight and "tomorrow" doesn't mean 'the morning to come in a few hours [15]_, but the day after' [16]_. 
+
+At ``14:13`` Yuu and Joujirou talk about how long the powers will remain. He says the powers should be gone by the time they graduate highschool [#jpschoolyrs]_. Yuu comments "2 more years".
+
+.. [15] Seeing as they are sleeping in 4 hour blocks.
+
+.. [16] Any conclift over this date only means the dates on the next episode get pushed back by one.
+
+Episode 6
+============
+
+Date
+-------
+
+This episode takes place from Monday the 1st of June onwards. 2nd June starts from ``15:02``. 3rd June starts from ``16:46`` until the end of the episode. 
+
+Supporting evidence
+---------------------
+
+1st June is determined by the uniform change from winter to summer [#jpuniform]_. This happens on the 1st of June. We see at least 2 day cycles pass.
+
+Episode 7
+============
+
+
+
 
 
 Real world references
@@ -118,5 +158,10 @@ This section is for references tied to real world events, such as exam dates, un
 .. [#jpschoolyrs] Taken from `web-japan.org <https://web-japan.org/kidsweb/explore/basic/schools.html>`_, `criced.tsukuba.ac.jp <https://www.criced.tsukuba.ac.jp/keiei/kyozai_ppe_f1_02.html>`_ and `gogonihon.com <https://gogonihon.com/en/blog/learn-about-the-japanese-education-system/>`_.
 
 .. [#jpexams] The exact dates exams are held vary from school to school, but typically early in the year (January/Feburuary). Some references for this include `Wikipedia <https://en.wikipedia.org/wiki/National_Center_Test_for_University_Admissions>`_, `asia-u.ac.jp <http://www.asia-u.ac.jp/admissions/schedule/>`_ (`Translated <https://www-asia--u-ac-jp.translate.goog/admissions/schedule/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl>`_).
+
+.. [#jpresults] The exact dates for exam results vary from school to school, but per this reference (`translated <https://resemom-jp.translate.goog/article/2020/06/11/56705.html?_x_tr_sl=auto&_x_tr_tl=en>`), from the Tokyo Metropolitan Board of Education says the results are announced throughout March.
+
+.. [#jpuniform] Students change into summer uniforms from 1st June and into winter uniforms from 1st October. From `allabout-japan.com <https://allabout-japan.com/en/article/3360/>`
+
 
  
