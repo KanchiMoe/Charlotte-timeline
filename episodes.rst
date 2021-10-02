@@ -159,9 +159,9 @@ This section is for references tied to real world events, such as exam dates, un
 
 .. [#jpexams] The exact dates exams are held vary from school to school, but typically early in the year (January/Feburuary). Some references for this include `Wikipedia <https://en.wikipedia.org/wiki/National_Center_Test_for_University_Admissions>`_, `asia-u.ac.jp <http://www.asia-u.ac.jp/admissions/schedule/>`_ (`Translated <https://www-asia--u-ac-jp.translate.goog/admissions/schedule/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl>`_).
 
-.. [#jpresults] The exact dates for exam results vary from school to school, but per this reference (`translated <https://resemom-jp.translate.goog/article/2020/06/11/56705.html?_x_tr_sl=auto&_x_tr_tl=en>`), from the Tokyo Metropolitan Board of Education says the results are announced throughout March.
+.. [#jpresults] The exact dates for exam results vary from school to school, but per this reference (`translated <https://resemom-jp.translate.goog/article/2020/06/11/56705.html?_x_tr_sl=auto&_x_tr_tl=en>`_), from the Tokyo Metropolitan Board of Education says the results are announced throughout March.
 
-.. [#jpuniform] Students change into summer uniforms from 1st June and into winter uniforms from 1st October. From `allabout-japan.com <https://allabout-japan.com/en/article/3360/>`
+.. [#jpuniform] Students change into summer uniforms from 1st June and into winter uniforms from 1st October. From `allabout-japan.com <https://allabout-japan.com/en/article/3360/>`_
 
 
  
