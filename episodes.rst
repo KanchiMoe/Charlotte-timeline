@@ -166,7 +166,7 @@ The episode could easily could be on the same day Episode 6 ended on. Tomori say
 attend school from the 3rd period
 
 .. [17] In the dub, at ``18:18``.
-.. [18] I wasn't able to find a solid source for Japanese school timetables. `Okinawa International School  <https://www.ois-edu.com/en/middleschool/life/>`_ says the 3rd period is between 11:00-11:55am with lunch (11:55am-12:40) following (middle school). The same school has the 3rd period being between 10:50-11:35am, followed by 4th (11:35-12:20am) and lunch (12:20-01:10pm) `for elementary <https://www.ois-edu.com/en/elementary/life/>`_ ([`2 <https://www.glassdoor.co.in/Photos/Japanese-Ministry-of-Education-thru-JET-Program-Office-Photos-IMG1101991.htm>`][`3 <https://abandonedkansai.com/2014/12/09/blizzard-school-snow-country-for-old-men/japanese-school-schedule/>`])
+.. [18] I wasn't able to find a solid source for Japanese school timetables. `Okinawa International School  <https://www.ois-edu.com/en/middleschool/life/>`_ says the 3rd period is between 11:00-11:55am with lunch (11:55am-12:40) following (middle school). The same school has the 3rd period being between 10:50-11:35am, followed by 4th (11:35-12:20am) and lunch (12:20-01:10pm) `for elementary <https://www.ois-edu.com/en/elementary/life/>`_ ([`2 <https://www.glassdoor.co.in/Photos/Japanese-Ministry-of-Education-thru-JET-Program-Office-Photos-IMG1101991.htm>`][`3 <https://abandonedkansai.com/2014/12/09/blizzard-school-snow-country-for-old-men/japanese-school-schedule/>`_])
 
 
 
