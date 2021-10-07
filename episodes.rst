@@ -3,6 +3,14 @@ Episodes
 ===========================
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tempor sollicitudin quam, sed finibus metus sodales id. In id ante nec lorem pellentesque rhoncus. Maecenas consectetur ex mauris, id fringilla risus efficitur id. Fusce blandit nisl in convallis malesuada. Aenean in iaculis eros. Aenean sed urna quis libero consequat lacinia vel quis diam. Duis aliquam bibendum nisi eget sollicitudin. Duis lobortis diam vitae nisl consectetur convallis. Quisque in eleifend mauris. In hac habitasse platea dictumst. Curabitur ultrices nibh nec sem faucibus tempor. Vivamus nec vulputate velit. Nam ac placerat ligula, in consequat turpis. Maecenas nec mi at lectus faucibus eleifend. Cras rhoncus urna sed magna mollis tristique. Suspendisse dignissim dolor odio.
 
+
+
+.. DANGER:: 
+    | This project includes major spoilers from `Charlotte <https://myanimelist.net/anime/28999>`_. If you have not seen Charlotte yet, it is worth watching it before reading this document.
+
+
+
+
 Episode 1
 ============
 
@@ -135,7 +143,7 @@ Episode 6
 Date
 -------
 
-This episode takes place from Monday the 1st of June onwards. 2nd June starts from ``15:02``. 3rd June starts from ``16:46`` until the end of the episode. 
+This episode takes place from Monday the 1st of June onwards. 2nd June starts from ``15:02``. 3rd June starts from ``16:46`` until the end of the episode, which means Ayumi dies on the 3rd of June [16]_.
 
 Supporting evidence
 ---------------------
