@@ -79,7 +79,7 @@ At ``16:01`` there is calendar behind Tomori and her brother. This seems to have
 
 There isn't any evidence to say when Tomori escaped from the school, only that at least 1 year had passed since she started there.
 
-Calander again says may. (``21:34``)
+Calender again says May. (``21:34``)
 
 .. [11] In Japan, middle school [#jpschoolyrs]_ is between ages of 12 to 15.
 
@@ -156,17 +156,34 @@ Episode 7
 Date
 -------
 
-We take that the episode starts the next day.
+We take that the episode starts the next day (4th June). The date of the funeral is unclear but would have happened as soon as possible [18]_. We can assume this would have taken place anywhere between the 5th of June (Friday) to the 7th (Sunday). Yuu is in a depressive state and runs away, until Tomori finds him. The episode ends still in June 2015 but it is unclear when in June.
 
 Supporting evidence
 ---------------------
 
-The episode could easily could be on the same day Episode 6 ended on. Tomori says Ayumi attended school from the 3rd period onwards [17]_ [18]_. 
+The episode could easily could be on the same day Episode 6 ended on. Tomori says Ayumi attended school from the 3rd period onwards [17]_ [#jpclasstimetable]_, which could put her death at around midday. Yuu wakes up, suggesting some period of unconsciousness, but the legnth is unclear so we shall assume it is the next day.
 
-attend school from the 3rd period
+We see a calendar at ``20:43``. This matches up to June 2015.
 
 .. [17] In the dub, at ``18:18``.
-.. [18] I wasn't able to find a solid source for Japanese school timetables. `Okinawa International School  <https://www.ois-edu.com/en/middleschool/life/>`_ says the 3rd period is between 11:00-11:55am with lunch (11:55am-12:40) following (middle school). The same school has the 3rd period being between 10:50-11:35am, followed by 4th (11:35-12:20am) and lunch (12:20-01:10pm) `for elementary <https://www.ois-edu.com/en/elementary/life/>`_ ([`2 <https://www.glassdoor.co.in/Photos/Japanese-Ministry-of-Education-thru-JET-Program-Office-Photos-IMG1101991.htm>`][`3 <https://abandonedkansai.com/2014/12/09/blizzard-school-snow-country-for-old-men/japanese-school-schedule/>`_])
+.. [18] From `Wikipedia <https://en.wikipedia.org/wiki/Japanese_funeral>`_.
+
+Episode 8
+============
+
+Date
+-------
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -191,5 +208,5 @@ This section is for references tied to real world events, such as exam dates, un
 
 .. [#jpuniform] Students change into summer uniforms from 1st June and into winter uniforms from 1st October. From `allabout-japan.com <https://allabout-japan.com/en/article/3360/>`_
 
+.. [#jpclasstimetable] The timetables differs between school years and schools themselves. For reference, elementary school (`Okinawa International School <https://www.ois-edu.com/en/elementary/life>`_, `Japanese Ministry of Education via JET <https://www.glassdoor.co.in/Photos/Japanese-Ministry-of-Education-thru-JET-Program-Office-Photos-IMG1101991.htm>`_, `abandonedkansai.com <https://abandonedkansai.com/2014/12/09/blizzard-school-snow-country-for-old-men/japanese-school-schedule>`_). Middle school (`Okinawa International School <https://www.ois-edu.com/en/middleschool/life>`_). High school (`Grades 10-12 <https://members.tripod.com/h_javora/jed8.htm>`_, `bokukoi.hatenablog.com <https://bokukoi.hatenablog.com/entry/2018/04/01/%E5%85%AC%E7%AB%8B%E9%AB%98%E6%A0%A1%E3%81%AE%E4%B8%80%E6%97%A5%E3%81%AE%E3%82%B9%E3%82%B1%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E3%80%81%E6%99%82%E9%96%93%E5%89%B2>`_)
 
- 
