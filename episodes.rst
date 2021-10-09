@@ -156,7 +156,9 @@ Episode 7
 Date
 -------
 
-We take that the episode starts the next day (4th June). The date of the funeral is unclear but would have happened as soon as possible [18]_. We can assume this would have taken place anywhere between the 5th of June (Friday) to the 7th (Sunday). Yuu is in a depressive state and runs away, until Tomori finds him. The episode ends still in June 2015 but it is unclear when in June.
+We take that the episode starts the next day (4th June). The date of the funeral is unclear but would have happened as soon as possible [18]_. We can assume this would have taken place anywhere between the 5th of June (Friday) to the 7th (Sunday).
+
+Yuu is in a depressive state and runs away, until Tomori finds him. The episode ends still in June 2015 but it is unclear when in June.
 
 Supporting evidence
 ---------------------
