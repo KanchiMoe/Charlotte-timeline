@@ -176,8 +176,15 @@ Episode 8
 Date
 -------
 
+There is a timeskip between the last episode and this one. The entire episode takes place on the 19th of July (which, oddly is a Sunday). The episode takes place within 1 day.
 
 
+Supporting evidence
+---------------------
+
+At ``08:05``, Tomori slams down a concert ticket on the desk, which had the date "7.20" on it, which Yuu says "for tomorrow night's peformance" [19]_.
+
+.. [19] Coincidentally, it is also the start of the school's summer break [#jpschoolbreaks]_. 
 
 
 
@@ -212,3 +219,4 @@ This section is for references tied to real world events, such as exam dates, un
 
 .. [#jpclasstimetable] The timetables differs between school years and schools themselves. For reference, elementary school (`Okinawa International School <https://www.ois-edu.com/en/elementary/life>`_, `Japanese Ministry of Education via JET <https://www.glassdoor.co.in/Photos/Japanese-Ministry-of-Education-thru-JET-Program-Office-Photos-IMG1101991.htm>`_, `abandonedkansai.com <https://abandonedkansai.com/2014/12/09/blizzard-school-snow-country-for-old-men/japanese-school-schedule>`_). Middle school (`Okinawa International School <https://www.ois-edu.com/en/middleschool/life>`_). High school (`Grades 10-12 <https://members.tripod.com/h_javora/jed8.htm>`_, `bokukoi.hatenablog.com <https://bokukoi.hatenablog.com/entry/2018/04/01/%E5%85%AC%E7%AB%8B%E9%AB%98%E6%A0%A1%E3%81%AE%E4%B8%80%E6%97%A5%E3%81%AE%E3%82%B9%E3%82%B1%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E3%80%81%E6%99%82%E9%96%93%E5%89%B2>`_)
 
+.. [#jpschoolbreaks] Per `web-japan.org <https://web-japan.org/kidsweb/explore/schools/q4.html>`_ the summer break is typically lasts for 40ish days between 20th July to 31st August. Winter break for 10ish days between 26th December to 6th January. Spring break for 10ish days between 25th March to 5th April. The new school year starts at the end of the spring break.
