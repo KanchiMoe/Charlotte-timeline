@@ -186,13 +186,25 @@ At ``08:05``, Tomori slams down a concert ticket on the desk, which had the date
 
 .. [19] Coincidentally, it is also the start of the school's summer break [#jpschoolbreaks]_. 
 
+Episode 9
+============
+
+.. Important:: 
+    | This is the start of where people tend to get confused, because of the time travel elements. Bare with me as I explain what is going on with the timeline here. 
+
+Date
+-------
+
+The episode takes place on the 20th of July.
+
+From ``6:45`` onwards to ``17:30`` this is an alternative view, 'parallel world' or 'alternative timeline', but it is July or August 2015.
 
 
 
+Supporting evidence
+---------------------
 
-
-
-
+Sala Shane, the blind singer, said at the concert that they would be premiering their new song 'Trigger'. Yuu is listening to the song so it needs to be on or after 20th July 2015, with the date being on the ticket from the previous episode.
 
 
 
