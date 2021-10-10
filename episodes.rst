@@ -225,7 +225,7 @@ We are back to the present day, which is the 20th July.
 From 14:20
 ***********
 
-This is a time travel. Yuu has jumped back to the 1st June. **Consider everything that happened after June 1st so far to have no longer happened.**
+**This is a time travel.** Yuu has jumped back to the 1st June. Everything that happened from the 1st June till now (episode 6 till now) is on another timeline that no longer exists because Yuu has just changed the course of history.
 
 From 17:53
 ***********
@@ -242,7 +242,7 @@ At `00:30` Ayumi she is 8 years old and Shunsuke says they get captured "around 
 
 Addationally, we see a calendar on wall at ``02:09``. This calendar has 30 days, the red numbers are Sundays [20]_, so the month starts on a Friday and ends on a Saturday. This gives us some contenders: November 2013, June 2012 and April 2011.
 
-* November 2013 is ruled out as the clothing and weather/environment for November weather. 
+* November 2013 is ruled out as the clothing worn doesn't match the weather/environment for November. 
 * June 2012 would mean they would be captured in 2015. Ayumi would be 11 and in the last year of elementary school.
 * April 2011 would mean they would be captured in 2014, in 2015 Ayumi would be 12 and able to be in middle school [21]_.
 
@@ -271,22 +271,24 @@ Episode 11
 Date
 -------
 
-The episode starts on 3rd June.
+1. The episode starts on 3rd June.
 
-The Charlotte comet passed by Earth at some point in 2003.
+2. The Charlotte comet passed by Earth at some point in 2003.
 
-From ``08:04``, it is estimate to still be the 3rd of June or the 4th of June.
+3. From ``08:04``, it is estimated to still be the 3rd of June. Tomori is kidnapped at nighttime on this day (``11:31``). 
 
+4. It is the 4th of June from ``17:47`` until the end of the episode.
 
 Supporting evidence
 ---------------------
 
-Calculated from episode 10, and episode 6 when Ayumi would have died. 
+1. Calculated from episode 10, and episode 6 when Ayumi would have died. 
 
-At ``03:34``, the scientist says the comet passed by the Earth 12 years ago. If this is 2015, that means it passed in 2003.
+2. At ``03:34``, the scientist says the comet passed by the Earth 12 years ago. If this is 2015, that means it passed in 2003.
 
-There is a weather change, the end of episode 10 was overcast. However at 8:04 the weather becomes sunny.
+3. There is a weather change, the end of episode 10 was overcast. However at 8:04 the weather becomes sunny, this could mean the weather cleared up. More importantly, we don't see Yuu or Ayumi change clothes either. We see it is nighttime at ``11:31`` when Tomori is kidnapped.
 
+4. Shunsuke gets the call from the kidnappers 
 
 
 
