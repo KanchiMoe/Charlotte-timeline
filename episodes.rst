@@ -6,7 +6,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tempor sollicitud
 
 
 .. DANGER:: 
-    | This project includes major spoilers from `Charlotte <https://myanimelist.net/anime/28999>`_. If you have not seen Charlotte yet, it is worth watching it before reading this document.
+    | This project includes major spoilers from the anime `'Charlotte' <https://myanimelist.net/anime/28999>`_. If you have not seen Charlotte yet, it is worth watching it before reading this document.
 
 
 
@@ -17,25 +17,18 @@ Episode 1
 Date
 -------
 
-If we assume the show is set in 2015, the first 3 minutes of episode 1 need to take place in 2014. Everything else after this takes place from April 2015 onwards. If we look at the calendar for April 2015, we could estimate that between ``02:55`` and ``08:28`` has been the 6th of April [5]_, ``08:29`` to ``18:26`` on 7th April. [6]_.
+If we assume the show is set in 2015, the first 3 minutes of episode 1 need to take place in 2014. Everything else after this takes place from April 2015 onwards. If we look at the calendar for April 2015, we could estimate that between ``02:55`` and ``03:43`` on the 6th of April [5]_.
 
-We can estimate that the episode end on Wednesday 8th April or Sunday 12th April. [9]_
-
-Yuu is 15 at this point.
-
-.. Attention:: 
-    | Tomori holds up Yuu's recent medical exam (``11:01``), dated 15th April. This means the exact dates (6th, 7th, etc) don't fit in. However, it is still safe to say this episode takes place in April. 
-
+Everything between ``03:44`` to ``08:28`` happens on different days. From ``08:28`` to ``18:26`` we can say is the 17th April. 
 
 Supporting evidence
 ---------------------
 
-The show opens to show Yuu standing in the street, he looks up and sees a comet passing over. There is no way to determine a date here, but this is not the Charlotte comet itself as detailed in a later episode.
+The show opens to show Yuu standing in the street, he looks up and sees a comet passing over. There is no way to determine a date here, but this is not the Charlotte comet itself as detailed in a later episode. The next shot (``0:55``) shows summer [1]_, autum [2]_ and winter [3]_, then Yuu attending the enterance ceremony [4]_.
 
-The next shot (``0:55``) shows summer [1]_, autum [2]_ and winter [3]_, then Yuu attending the enterance ceremony [4]_. He and Ayumi are transfered to Hoshinoumi Academy. Yuu and Ayumi then move into the dorms [7]_ [8]_. 
+The 17th of April is calculated from Yuu's recent medical exam, which Tomori holds up (``11:01``) and it is dated 15th April so the event has to take place afterwards. The next shot shows Yuu and Ayumi moving in to Hoshinoumi Academy's dorms [7]_ [8]_. 
 
-Yuu's age is shown on a medical report that Tomori holds up at ``11:01``. Tomori's estimated age is 15 at this point [10]_.
-
+Tomori's estimated age is 15 at this point [10]_.
 
 .. [1] Evidenced by the weather - sunny, cicada sounds, ect.
 
@@ -51,7 +44,7 @@ Yuu's age is shown on a medical report that Tomori holds up at ``11:01``. Tomori
 
 .. [7] There is a calendar at ``23:17``, above Ayumi's head which shows April. The writing is a bit faint, but visible.
 
-.. [8] It appears they spend the entire day moving in, starting in the morning (``18:26``). Tomori and Joujirou are leaving  but Ayumi says she is about to make dinner, implying the evening. [9]_
+.. [8] It appears they spend the entire day moving in, starting in the morning (``18:26``). Tomori and Joujirou are leaving but Ayumi says she is about to make dinner, implying the evening. [9]_
 
 .. [9] It's not possible to determine when exactly the move into the dorms happened. We could assume it happened the next day (seeing as Hoshinoumi Academy moves quickly (and would have allowed them to not be present at school during the move in)) or at the weekend of that week.
 
