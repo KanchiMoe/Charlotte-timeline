@@ -320,7 +320,7 @@ Episode 13
 Date
 -------
 
-Estimated to be April, or October. 
+Estimated to be April, or October of 2016 or 2017. 
 
 Supporting evidence
 ---------------------
@@ -329,13 +329,9 @@ It is not possible to determine any definitive date of when this takes place.
 
 At ``20:07`` we see Tomori in the winter uniform, so we know as a guarantee that it needs to be between 1st October and 1st June [#jpuniform]_. Based on the weather outside Yuu's hospital window, we see that it is sunny and bright with birds singing. At a guess this would be April.
 
-If Yuu left in September, if he was gone for 6 months this would put the time around March-April 2016. If he was gone for a year, this could put the date in October 2016. 1 year, 6 months at April 2017. 2 years at October 2017.
-
 The last shots show people wearing jackets, suggesting it is warm but not too hot, humid or uncomfortable, which aligns with the month being April and October.
 
-
-
-
+If Yuu left in September, if he was gone for 6 months this would put the time around April 2016. If he was gone for a year, this could put the date in October 2016. 1 year, 6 months at April 2017. 2 years at October 2017.
 
 
 
