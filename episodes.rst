@@ -145,7 +145,7 @@ This episode takes place from Monday the 1st of June onwards. 2nd June starts fr
 Supporting evidence
 ---------------------
 
-1st June is determined by the uniform change from winter to summer [#jpuniform]_. This happens on the 1st of June. We see at least 2 day cycles pass.
+The 1st June estimation is determined by the uniform change from winter to summer, which traditionally happens on the 1st of June [#jpuniform]_. We see at least 2 day cycles pass.
 
 Episode 7
 ============
@@ -329,6 +329,26 @@ At ``20:07`` we see Tomori in the winter uniform, so we know as a guarantee that
 The last shots show people wearing jackets, suggesting it is warm but not too hot, humid or uncomfortable, which aligns with the month being April and October.
 
 If Yuu left in September, if he was gone for 6 months this would put the time around April 2016. If he was gone for a year, this could put the date in October 2016. 1 year, 6 months at April 2017. 2 years at October 2017.
+
+Other calculations
+===================
+
+This section is more for the visual graph. While some information is not mentioned in the anime, we can use the information we have already gathered to determine other facts.
+
+Tomori's age
+-------------
+
+Her age, or date of birth is never mentioned. However because of Japan's school system, we can assume that she is 15 in April 2015. This would mean she is 11 when her mother "betrays" her, and 12 when she starts the new school. This is also backed up because she says in episode 2 at ``14:47`` that she had just passed the middle school enterance exams.
+
+When Shunsuke jumped back to
+------------------------------
+
+We are told in episode 10 at ``00:32`` that Ayumi is 8 years old, but we don't know directly what year this is. For Ayumi to be in middle school in 2015, she needs to be 12. Working backwards, that means she is 8 in 2011.
+
+When Shunsuke's age
+--------------------
+
+Like Tomori's, it is never mentioned when his date of birth is. However we see in episode 10 at ``04:23`` that he celebreates his 15th birthday, but we don't know what year it is. If he is 15 in 2011, he is 19 in 2015 and his power *might* have vanished. However, if we say he is 15 in 2012, he is 18 in 2015 and seems more reasonable that he would still have his power for Yuu to plunder.
 
 
 
