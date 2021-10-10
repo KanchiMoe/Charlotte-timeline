@@ -225,7 +225,7 @@ We are back to the present day, which is the 20th July.
 From 14:20
 ***********
 
-This is a time travel. Yuu has jumped back to the 1st June. *Consider everything that happened after June 1st so far to have no longer happened.*
+This is a time travel. Yuu has jumped back to the 1st June. **Consider everything that happened after June 1st so far to have no longer happened.**
 
 From 17:53
 ***********
@@ -273,7 +273,7 @@ Date
 
 The episode starts on 3rd June.
 
-The Charlotte comet passed by Earth 12 years ago, making it pass at some point in 2003.
+The Charlotte comet passed by Earth at some point in 2003.
 
 From ``08:04``, it is estimate to still be the 3rd of June or the 4th of June.
 
@@ -283,7 +283,7 @@ Supporting evidence
 
 Calculated from episode 10, and episode 6 when Ayumi would have died. 
 
-At ``03:34``, the scientist says the comet passed by the Earth.
+At ``03:34``, the scientist says the comet passed by the Earth 12 years ago. If this is 2015, that means it passed in 2003.
 
 There is a weather change, the end of episode 10 was overcast. However at 8:04 the weather becomes sunny.
 
