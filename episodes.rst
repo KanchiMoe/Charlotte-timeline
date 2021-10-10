@@ -290,6 +290,54 @@ There is a weather change, the end of episode 10 was overcast. However at 8:04 t
 
 There are some jumps in the time to calculate this. The kidnappers call to Shunsuke (``12:03``) needs to have happened after Tomori was kidnapped (``11:31``) as they explicitly say they have kidnapped her too (``12:33``). This has to be after she helped save Ayumi (``21:14``, episode 10). Shunsuke calls Furuki immediately after (``13:11``) and we see that it is daytime outside of Furuki's car windows (``13:35``). Yuu leaves (``17:47``) after Shunsuke and his team plan what to do.
 
+Episode 12
+============
+
+.. Important:: 
+    | From this point onwards, it is no longer possible to definitely calculate any dates. Working will be shown in supporting evidence.
+
+Date
+-------
+
+Yuu wakes up on the 6th of June.
+
+He spends several weeks/months recovering from his injuries.
+
+Yuu leaves the country at some point before the 1st of October.
+
+Supporting evidence
+---------------------
+
+At ``00:33``, X says "it's only been 2 days since the surgery.
+
+Time passes, but it is not possible to calculate it. We see that Yuu has recovered some (``05:22``) and doesn't need to be immobilised anymore, and we see him do physiotherapy (``09:36`` and ``12:59``). Injuries like this are not healed quickly and can take weeks to months to heal. We also see that Yuu celebreates his 16th birthday at ``11:49``.
+
+We see Tomori still wearing the summer uniform as Yuu leaves on his flight (``22:53``). The uniforms change to winter on the 1st of October [#jpuniform]_ so it's safe to say Yuu was recovering throughout July, August and left towards the end of September 2015.
+
+Episode 13
+============
+
+Date
+-------
+
+Estimated to be April, or October. 
+
+Supporting evidence
+---------------------
+
+It is not possible to determine any definitive date of when this takes place. 
+
+At ``20:07`` we see Tomori in the winter uniform, so we know as a guarantee that it needs to be between 1st October and 1st June [#jpuniform]_. Based on the weather outside Yuu's hospital window, we see that it is sunny and bright with birds singing. At a guess this would be April.
+
+If Yuu left in September, if he was gone for 6 months this would put the time around March-April 2016. If he was gone for a year, this could put the date in October 2016. 1 year, 6 months at April 2017. 2 years at October 2017.
+
+The last shots show people wearing jackets, suggesting it is warm but not too hot, humid or uncomfortable, which aligns with the month being April and October.
+
+
+
+
+
+
 
 Real world references
 =====================
