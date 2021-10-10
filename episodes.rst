@@ -288,8 +288,7 @@ At ``03:34``, the scientist says the comet passed by the Earth 12 years ago. If 
 
 There is a weather change, the end of episode 10 was overcast. However at 8:04 the weather becomes sunny, this could mean the weather cleared up. More importantly, we don't see Yuu or Ayumi change clothes either. We see it is nighttime at ``11:31`` when Tomori is kidnapped.
 
-Shunsuke gets the call from the kidnappers 
-
+There are some jumps in the time to calculate this. The kidnappers call to Shunsuke (``12:03``) needs to have happened after Tomori was kidnapped (``11:31``) as they explicitly say they have kidnapped her too (``12:33``). This has to be after she helped save Ayumi (``21:14``, episode 10). Shunsuke calls Furuki immediately after (``13:11``) and we see that it is daytime outside of Furuki's car windows (``13:35``). Yuu leaves (``17:47``) after Shunsuke and his team plan what to do.
 
 
 Real world references
