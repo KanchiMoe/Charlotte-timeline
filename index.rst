@@ -2,18 +2,25 @@
 Working out the Charlotte timeline
 ====================================
 
-Charlotte. The anime 
+.. DANGER:: 
+    | This project includes major spoilers from the anime `'Charlotte' <https://myanimelist.net/anime/28999>`_. If you have not seen Charlotte yet, it is worth watching it before reading this document.
+
+Charlotte. The 2nd anime original by Jun Maeda, with mixed reviews due to `pacing problems <https://tvtropes.org/pmwiki/pmwiki.php/Main/PacingProblems>`_ and a rushed ending, among other things.
+
+One of the other issues it has; is the general confusion around it's timeline, because it has time travel elements. 
+
+As part of another project I was working on, that involves Charlotte's timeline, I decided to work out and plot exactly when episodes and events happened.
+
+As a result, the timeline, time travel, flashbacks, etc are all clear to me and I understand what is going on in Charlotte without a problem. I have decided to create this document site to help others.
+
+
+Visual timeline
+==================
+
+In addation to this document, I have also created a 
 
 
 
-
-
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tempor sollicitudin quam, sed finibus metus sodales id. In id ante nec lorem pellentesque rhoncus. Maecenas consectetur ex mauris, id fringilla risus efficitur id. Fusce blandit nisl in convallis malesuada. Aenean in iaculis eros. Aenean sed urna quis libero consequat lacinia vel quis diam. Duis aliquam bibendum nisi eget sollicitudin. Duis lobortis diam vitae nisl consectetur convallis. Quisque in eleifend mauris. In hac habitasse platea dictumst. Curabitur ultrices nibh nec sem faucibus tempor. Vivamus nec vulputate velit. Nam ac placerat ligula, in consequat turpis. Maecenas nec mi at lectus faucibus eleifend. Cras rhoncus urna sed magna mollis tristique. Suspendisse dignissim dolor odio.
-
-Ut aliquet leo vel nibh commodo, in luctus libero placerat. Nulla facilisi. Cras pellentesque risus nec orci euismod mattis. Suspendisse eget sapien scelerisque, varius ipsum vel, aliquet lacus. Pellentesque mattis a diam a pretium. Pellentesque dictum tempus turpis, egestas pellentesque tortor consectetur sed. Mauris blandit ex id nisi maximus commodo. Donec sem massa, accumsan vel congue vitae, efficitur a turpis.
-
-Integer ut ultrices lectus. Aenean sem metus, laoreet a hendrerit sit amet, tempus ac eros. Proin dapibus vestibulum nisi a mollis. Praesent eu ligula sodales, dapibus ipsum vehicula, vulputate nunc. Sed congue rhoncus elit. Nullam molestie eros in fringilla lacinia. Phasellus laoreet semper lectus, eget pulvinar quam condimentum ac. Nulla in sagittis turpis. Fusce vel lectus quis augue dapibus porta. 
 
 
 
