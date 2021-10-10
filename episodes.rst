@@ -189,9 +189,6 @@ At ``08:05``, Tomori slams down a concert ticket on the desk, which had the date
 Episode 9
 ============
 
-.. Important:: 
-    | This is the start of where people tend to get confused, because of the time travel elements. Bare with me as I explain what is going on with the timeline here. 
-
 Date
 -------
 
@@ -268,9 +265,27 @@ From episode 6, Ayumi was attacked by her classmate.
 .. [20] From `timeanddate.com <https://www.timeanddate.com/calendar/days/monday.html>`_.
 .. [21] In episode 1 at ``15:50``, Ayumi says she and Yuu were getting transfered to "Hoshinoumi Academy's middle school and high school, meaning Ayumi has to be 12 [#jpschoolyrs]_ in 2015.
 
+Episode 11
+============
+
+Date
+-------
+
+The episode starts on 3rd June.
+
+The Charlotte comet passed by Earth 12 years ago, making it pass at some point in 2003.
+
+From ``08:04``, it is estimate to still be the 3rd of June or the 4th of June.
 
 
+Supporting evidence
+---------------------
 
+Calculated from episode 10, and episode 6 when Ayumi would have died. 
+
+At ``03:34``, the scientist says the comet passed by the Earth.
+
+There is a weather change, the end of episode 10 was overcast. However at 8:04 the weather becomes sunny.
 
 
 
