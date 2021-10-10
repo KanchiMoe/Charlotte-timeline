@@ -12,7 +12,7 @@ Integer ut ultrices lectus. Aenean sem metus, laoreet a hendrerit sit amet, temp
 .. toctree::
     :maxdepth: -1
     :hidden:
-    :caption: Episodes
+    :caption: The Timeline
 
     Episodes <episodes>
 
