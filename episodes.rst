@@ -271,24 +271,24 @@ Episode 11
 Date
 -------
 
-1. The episode starts on 3rd June.
+The episode starts on 3rd June.
 
-2. The Charlotte comet passed by Earth at some point in 2003.
+The Charlotte comet passed by Earth at some point in 2003.
 
-3. From ``08:04``, it is estimated to still be the 3rd of June. Tomori is kidnapped at nighttime on this day (``11:31``). 
+From ``08:04``, it is estimated to still be the 3rd of June. Tomori is kidnapped at nighttime on this day (``11:31``). 
 
-4. It is the 4th of June from ``17:47`` until the end of the episode.
+It is the 4th of June from ``17:47`` until the end of the episode.
 
 Supporting evidence
 ---------------------
 
-1. Calculated from episode 10, and episode 6 when Ayumi would have died. 
+Calculated from episode 10, and episode 6 when Ayumi would have died. 
 
-2. At ``03:34``, the scientist says the comet passed by the Earth 12 years ago. If this is 2015, that means it passed in 2003.
+At ``03:34``, the scientist says the comet passed by the Earth 12 years ago. If this is 2015, that means it passed in 2003.
 
-3. There is a weather change, the end of episode 10 was overcast. However at 8:04 the weather becomes sunny, this could mean the weather cleared up. More importantly, we don't see Yuu or Ayumi change clothes either. We see it is nighttime at ``11:31`` when Tomori is kidnapped.
+There is a weather change, the end of episode 10 was overcast. However at 8:04 the weather becomes sunny, this could mean the weather cleared up. More importantly, we don't see Yuu or Ayumi change clothes either. We see it is nighttime at ``11:31`` when Tomori is kidnapped.
 
-4. Shunsuke gets the call from the kidnappers 
+Shunsuke gets the call from the kidnappers 
 
 
 
