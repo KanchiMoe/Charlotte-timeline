@@ -199,14 +199,74 @@ The episode takes place on the 20th of July.
 
 From ``6:45`` onwards to ``17:30`` this is an alternative view, 'parallel world' or 'alternative timeline', but it is July or August 2015.
 
-
-
 Supporting evidence
 ---------------------
 
 Sala Shane, the blind singer, said at the concert that they would be premiering their new song 'Trigger'. Yuu is listening to the song so it needs to be on or after 20th July 2015, with the date being on the ticket from the previous episode.
 
+Episode 10
+============
 
+.. Important:: 
+    | This is the start of where people tend to get confused, because of the time travel elements. Bare with me as I explain what is going on with the timeline here, and my reasoning for the dates.
+
+Date
+-------
+
+From 00:00
+***********
+
+Following on from episode 9, this is from Shunsuke's point of view, of a 'parallel world' or 'alternative timeline'.
+
+This is estimated to be April 2011.
+
+From 10:55
+***********
+
+We are back to the present day, which is the 20th July.
+
+From 14:20
+***********
+
+This is a time travel. Yuu has jumped back to the 1st June. *Consider everything that happened after June 1st so far to have no longer happened.*
+
+From 17:53
+***********
+
+Is the 3rd of June, 2015.
+
+Supporting evidence
+---------------------
+
+From 00:00
+***********
+
+At `00:30` Ayumi she is 8 years old and Shunsuke says they get captured "around 3 years from now".
+
+Addationally, we see a calendar on wall at ``02:09``. This calendar has 30 days, the red numbers are Sundays [20]_, so the month starts on a Friday and ends on a Saturday. This gives us some contenders: November 2013, June 2012 and April 2011.
+
+* November 2013 is ruled out as the clothing and weather/environment for November weather. 
+* June 2012 would mean they would be captured in 2015. Ayumi would be 11 and in the last year of elementary school.
+* April 2011 would mean they would be captured in 2014, in 2015 Ayumi would be 12 and able to be in middle school [21]_.
+
+From 10:55
+***********
+
+A night hasn't past yet following the concert on 20th July.
+
+From 14:20
+***********
+
+Ayumi becomes ill, and Pooh comes to the school about her collapse ability, which is the same as episode 6, which is already estimated as June 1st.
+
+From 17:53
+***********
+
+From episode 6, Ayumi was attacked by her classmate.
+
+
+.. [20] From `timeanddate.com <https://www.timeanddate.com/calendar/days/monday.html>`_.
+.. [21] In episode 1 at ``15:50``, Ayumi says she and Yuu were getting transfered to "Hoshinoumi Academy's middle school and high school, meaning Ayumi has to be 12 [#jpschoolyrs]_ in 2015.
 
 
 
