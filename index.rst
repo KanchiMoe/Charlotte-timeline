@@ -29,7 +29,7 @@ Integer ut ultrices lectus. Aenean sem metus, laoreet a hendrerit sit amet, temp
     :hidden:
     :caption: Misc
 
-    Contribute <contribute>
+    Contribute <contributing>
 
 
 
