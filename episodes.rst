@@ -19,7 +19,9 @@ Date
 
 If we assume the show is set in 2015, the first 3 minutes of episode 1 need to take place in 2014. Everything else after this takes place from April 2015 onwards. If we look at the calendar for April 2015, we could estimate that between ``02:55`` and ``03:43`` on the 6th of April [5]_.
 
-Everything between ``03:44`` to ``08:28`` happens on different days. From ``08:28`` to ``18:26`` we can say is the 17th April. 
+Everything between ``03:44`` to ``08:28`` happens on different days. From ``08:28`` to ``18:26`` we can say is the 17th April.
+
+We can then say that the episode ends on Sunday (19 April) evening.
 
 Supporting evidence
 ---------------------
@@ -27,6 +29,8 @@ Supporting evidence
 The show opens to show Yuu standing in the street, he looks up and sees a comet passing over. There is no way to determine a date here, but this is not the Charlotte comet itself as detailed in a later episode. The next shot (``0:55``) shows summer [1]_, autum [2]_ and winter [3]_, then Yuu attending the enterance ceremony [4]_.
 
 The 17th of April is calculated from Yuu's recent medical exam, which Tomori holds up (``11:01``) and it is dated 15th April so the event has to take place afterwards. The next shot shows Yuu and Ayumi moving in to Hoshinoumi Academy's dorms [7]_ [8]_. 
+
+We get the 19th of April from moving in taking up the weekend.
 
 Tomori's estimated age is 15 at this point [10]_.
 
@@ -46,7 +50,7 @@ Tomori's estimated age is 15 at this point [10]_.
 
 .. [8] It appears they spend the entire day moving in, starting in the morning (``18:26``). Tomori and Joujirou are leaving but Ayumi says she is about to make dinner, implying the evening. [9]_
 
-.. [9] It's not possible to determine when exactly the move into the dorms happened. We could assume it happened the next day (seeing as Hoshinoumi Academy moves quickly (and would have allowed them to not be present at school during the move in)) or at the weekend of that week.
+.. [9] It's not possible to determine when exactly the move into the dorms happened. We could assume it happened the next day (seeing as Hoshinoumi Academy moves quickly).
 
 .. [10] Tomori's age is estimated to be 15 based on she is a first year in high school. In Japan, most people start high school when 15. [#jpschoolyrs]_
 
@@ -57,7 +61,7 @@ Episode 2
 Date
 -------
 
-From episode 1, we can still conclude that it is April 2015.
+From episode 1, we can still conclude that it is Monday, 20th April 2015.
 
 Tomori's flashback (``14:58``) takes place in 2012. A year passes [13]_ and now assumed around or April 2013. Tomori meeting Shunsuke likely happened sometime near this date.
 
