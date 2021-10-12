@@ -348,7 +348,7 @@ We are told in episode 10 at ``00:32`` that Ayumi is 8 years old, but we don't k
 When Shunsuke's age
 --------------------
 
-Like Tomori's, it is never mentioned when his date of birth is. However we see in episode 10 at ``04:23`` that he celebreates his 15th birthday, but we don't know what year it is. If he is 15 in 2011, he is 19 in 2015 and his power *might* have vanished. However, if we say he is 15 in 2012, he is 18 in 2015 and seems more reasonable that he would still have his power for Yuu to plunder.
+Like Tomori's, it is never mentioned when his date of birth is. However we see in episode 10 at ``04:23`` that he celebreates his 15th birthday, but we don't know what year it is. If he is 15 in 2011, he is 19 in 2015 and his power *might* have vanished. However, if we say he is 15 in 2012, he is 18 in 2015.
 
 
 
