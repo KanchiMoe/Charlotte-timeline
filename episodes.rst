@@ -26,7 +26,7 @@ We can then say that the episode ends on Sunday (19 April) evening.
 Supporting evidence
 ---------------------
 
-The show opens to show Yuu standing in the street, he looks up and sees a comet passing over. There is no way to determine a date here, but this is not the Charlotte comet itself as detailed in a later episode. The next shot (``0:55``) shows summer [1]_, autum [2]_ and winter [3]_, then Yuu attending the enterance ceremony [4]_.
+The show opens to show Yuu standing in the street, he looks up and sees a comet passing over. There is no way to determine a date here, but this is not the Charlotte comet itself as detailed in a later episode. The next shot (``0:55``) shows summer [1]_, autumn [2]_ and winter [3]_, then Yuu attending the enterance ceremony [4]_.
 
 The 17th of April is calculated from Yuu's recent medical exam, which Tomori holds up (``11:01``) and it is dated 15th April so the event has to take place afterwards. The next shot shows Yuu and Ayumi moving in to Hoshinoumi Academy's dorms [7]_ [8]_. 
 
@@ -126,7 +126,7 @@ Supporting evidence
 
 The evidence for the end date comes from that episode 6 has a uniform change, which takes place on a set date each year [#jpuniform]_. If we track the passage of time using the day-night cycle, we can see that 3 days have passed.
 
-At ``14:42`` on what would be Saturday, Yuu says "tomorrow is Monday, right?" this is taken to be after midnight and "tomorrow" doesn't mean 'the morning to come in a few hours [15]_, but the day after' [16]_. 
+At ``14:42`` on what would be Saturday, Yuu says "tomorrow is Monday, right?" this is taken to be after midnight and "tomorrow" doesn't mean 'the morning to come in a few hours' [15]_, but the day after [16]_. 
 
 At ``14:13`` Yuu and Joujirou talk about how long the powers will remain. He says the powers should be gone by the time they graduate highschool [#jpschoolyrs]_. Yuu comments "2 more years".
 
