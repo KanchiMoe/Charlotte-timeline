@@ -344,7 +344,16 @@ When Shunsuke's age
 
 Like Tomori's, it is never mentioned when his date of birth is. However we see in episode 10 at ``04:23`` that he celebreates his 15th birthday, but we don't know what year it is. If he is 15 in 2011, he is 19 in 2015 and his power *might* have vanished. However, if we say he is 15 in 2012, he is 18 in 2015.
 
+How long Yuu travelled the world
+----------------------------------
 
+In an interview, Key/Visual Arts said that Yuu's journey took 6 months. However, considering the route Yuu took, it doesn't appear logically possible.
+
+The route Yuu took, as shown in the anime is the Philippines, South Africa, Egypt, Afghanistan, India, Peru, Cuba, Saudi Arabia, Italy, Germany, Poland, Sweeden, Finland, Russia, France, Portugal, UK, Sicily, New York, Arizona, Siberia, Cambodia, Turkey, Australia, China (Beijing). `Here is the route mapped on Google Maps <https://i.imgur.com/4pnpO8M.png>`_.
+
+`A post on reddit <https://redd.it/clpuoj>`_ estimated that there may be around 25,355,958 ability users, not counting carriers. Another reddit user on the same post estimated that if Yuu took 50 abilities a day, it would take him 1,389 years to take all abilities. Another user estimated he would need to steal abilities from 34,734 people a day for Yuu to finish within 2 years.
+
+I stopped the line at 1 year and 6 months, as episode 13 seems to end more in April over October. Furthermore, extending the line further and further adds nothing of value as the exact time he was travelling can not be determined.
 
 Real world references
 =====================
