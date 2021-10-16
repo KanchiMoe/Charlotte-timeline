@@ -33,6 +33,7 @@ In addation to this document, I have also created a
     :caption: The Timeline
 
     Episodes <episodes>
+    Ep 1 <episodes#episode-1>
 
 .. toctree::
     :maxdepth: -1
