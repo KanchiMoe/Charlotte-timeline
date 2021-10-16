@@ -17,7 +17,7 @@ As a result, the timeline, time travel, flashbacks, etc are all clear to me and 
 Visual timeline
 ==================
 
-In addation to this document, I have also created a 
+In addation to this document, I have also created a visual timeline using Time.Graphics to aid in visualising the data and timeline I've formed.  
 
 .. Important:: 
     | The visual timeline contains hours and minutes in some locations. These are not part of any calculation and are only used for alignment.
@@ -28,7 +28,7 @@ In addation to this document, I have also created a
 
 
 .. toctree::
-    :maxdepth: 0
+    :maxdepth: -1
     :hidden:
 
     Index <index>
