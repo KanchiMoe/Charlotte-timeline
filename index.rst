@@ -17,10 +17,10 @@ As a result, the timeline, time travel, flashbacks, etc are all clear to me and 
 Visual timeline
 ==================
 
-In addation to this document, I have also created a visual timeline using Time.Graphics to aid in visualising the data and timeline I've formed.  
+In addation to this document, `I have also created a visual timeline using Time.Graphics to aid in visualising the data and timeline I've formed <https://time.graphics/line/566800>`_. This timeline graph should aid where people may get confused with the time travel and flashback elements, particularly from episode 9 onwards.   
 
 .. Important:: 
-    | The visual timeline contains hours and minutes in some locations. These are not part of any calculation and are only used for alignment.
+    | The visual timeline contains hours and minutes in some locations. These are not part of any calculation and are only used for the alignment of segments on the timeline.
 
 
 
