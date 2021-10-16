@@ -31,7 +31,6 @@ In addation to this document, I have also created a visual timeline using Time.G
     :maxdepth: -1
     :hidden:
 
-    Index <index>
     Want to contribute? <contributing>
 
 .. toctree::
