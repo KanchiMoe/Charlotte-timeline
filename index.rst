@@ -30,17 +30,17 @@ In addation to this document, I have also created a
 .. toctree::
     :maxdepth: -1
     :hidden:
-    :caption: The Timeline
 
-    Episodes <episodes>
-    Ep 1 <episodes#episode-1>
+    Index <index>
+    Want to contribute? <contributing>
 
 .. toctree::
     :maxdepth: -1
     :hidden:
-    :caption: Misc
+    :caption: The Timeline
 
-    Contribute <contributing>
+    Episodes <episodes>
+    
 
 
 
