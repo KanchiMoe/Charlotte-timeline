@@ -28,7 +28,7 @@ In addation to this document, I have also created a
 
 
 .. toctree::
-    :maxdepth: -1
+    :maxdepth: 0
     :hidden:
 
     Index <index>
