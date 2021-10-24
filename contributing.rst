@@ -17,4 +17,4 @@ Github
 
 This project has been written in `reStructuredText <https://docutils.sourceforge.io/rst.html>`_ (rST), using `Sphinx <https://www.sphinx-doc.org/en/master/>`_ on `ReadTheDocs <https://readthedocs.org/>`_. The code is hosted on `Github <https://github.com/KanchiMoe/Charlotte-timeline>`_ (and via the 'Edit on Github' on the top of each page).
 
-You're welcome to submit any `issues <https://github.com/KanchiMoe/Charlotte-timeline/issues>`_ or `pull requests `<https://github.com/KanchiMoe/Charlotte-timeline/pulls>`_ to the project to make any changes, and generally this will be the best way for me to notice.
+You're welcome to submit any `issues <https://github.com/KanchiMoe/Charlotte-timeline/issues>`_ or `pull requests <https://github.com/KanchiMoe/Charlotte-timeline/pulls>`_ to the project to make any changes, and generally this will be the best way for me to notice.
