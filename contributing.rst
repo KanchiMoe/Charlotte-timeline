@@ -22,4 +22,4 @@ You're welcome to submit any `issues <https://github.com/KanchiMoe/Charlotte-tim
 Acknowledgements
 ==================
 
-Many thanks to `Melan#1105` and `hi117#2392` for checking over my work.
+Many thanks to ``Melan#1105`` and ``hi117#2392`` for checking over my work.
