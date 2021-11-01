@@ -25,14 +25,6 @@ In addation to this document, `I have also created a visual timeline using Time.
 
 
 
-
-
-.. toctree::
-    :maxdepth: -1
-    :hidden:
-
-    Want to contribute? <contributing>
-
 .. toctree::
     :maxdepth: -1
     :hidden:
@@ -40,7 +32,12 @@ In addation to this document, `I have also created a visual timeline using Time.
 
     Episodes <episodes>
     
+.. toctree::
+    :maxdepth: -1
+    :hidden:
+    :caption: Misc
 
+    Want to contribute? <contributing>
 
 
 
